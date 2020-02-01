@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: blue;
+  width: 100%;
+  align-items: center;
+}
+
+.link {
+  color: white;
+}
+
+.image_header {
+  width: 702px;
+  display: block;
+  margin-left: 400px;
+}
